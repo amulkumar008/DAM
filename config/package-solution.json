@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "microsoft-ams-client-app-client-side-solution",
+    "id": "a6ae981c-3178-4fab-a63c-077e2fcb7454",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/microsoft-ams-client-app.sppkg"
+  }
+}
